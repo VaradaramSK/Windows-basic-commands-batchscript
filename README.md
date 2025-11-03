@@ -25,15 +25,19 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="878" height="345" alt="image" src="https://github.com/user-attachments/assets/f0fc5aee-a227-431f-9445-b86de280ba09" />
+
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="883" height="727" alt="image" src="https://github.com/user-attachments/assets/43ede377-e68d-4ddb-9342-2aeeb6e9ae34" />
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="791" height="197" alt="image" src="https://github.com/user-attachments/assets/bf9a3767-43cd-4257-8d29-cc3427402a44" />
 
 
 Create the file hello.txt using echo and redirection
